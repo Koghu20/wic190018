@@ -1,6 +1,6 @@
 # wic190018
 
-'''
+
 1.	Start
     Input num1, num2
     Print num1 * num2
@@ -65,6 +65,6 @@ Endwhile
 Print even , odd
 End 
 
-     '''
+    
 
 
