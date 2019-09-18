@@ -1,11 +1,11 @@
 # wic190018
 
-
+'''
 1.	Start
     Input num1, num2
     Print num1 * num2
 End 
-
+'''
 
 2.	Start
    Input num1
